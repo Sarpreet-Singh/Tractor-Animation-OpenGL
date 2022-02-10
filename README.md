@@ -8,8 +8,13 @@ L -  To move the tractor to the left
 Space -  To reset the initial Position 
 To create the tractor 2 shapes a cuboid and a dodecagon have been used. 
 These are the coordinates used to create the cuboid.
-![](images/cuboid.png)
+
+<img src = "imaimages/cuboid.png" height = "100">
+
 The dodecagon has been desgined in a 2 dimensional grid as to make in make 3 dimensional simply change the Z value from 0 to -1.
-![](images/dodecagon.png)
+
+<img src = "imaimages/dodecagon.png" height = "100">
+
 Screenshots:
-![](images/screenshots.png)
+
+<img src = "imaimages/screenshots.png" height = "100">
